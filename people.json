@@ -1,0 +1,50 @@
+[
+  {
+    "name" : "Al Pacino" ,
+    "age" : "83" ,
+    "photo" : "https://nastyavyatkina.files.wordpress.com/2015/10/1.jpg"
+  },
+
+  {
+    "name" : "Keanu Reeves" ,
+    "age" : "59" ,
+    "photo" : "https://i.mydramalist.com/xqr5j_5c.jpg"
+  },
+
+  {
+    "name" : "Clark Gable" ,
+    "age" : "dead" ,
+    "photo" : "https://cdn20.pamono.com/p/g/8/2/825559_axag410eya/clark-gable-archivdruck-in-weiss-1.jpg"
+  },
+
+  {
+    "name" : "Vivien Leigh" ,
+    "age" : "dead" ,
+    "photo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Vivien_Leigh_Scarlet.jpg/640px-Vivien_Leigh_Scarlet.jpg"
+  },
+
+  {
+    "name" : "George Clooney" ,
+    "age" : "62" ,
+    "photo" : "https://whoswho.de/medien/wsw/george_clooney.jpg"
+  },
+
+  {
+    "name" : "Monica Bellucci" ,
+    "age" : "59" ,
+    "photo" : "https://static.hdrezka.ac/i/2016/3/10/u4ad79c20fadebo97m28t.jpg"
+  },
+
+  {
+    "name" : "Luke Bracey" ,
+    "age" : "34" ,
+    "photo" : "https://thumbs.dfs.ivi.ru/storage8/contents/9/f/c60ba80c1aff30506297ffc351d94a.jpg"
+  },
+
+  {
+    "name" : "Julia Roberts" ,
+    "age" : "56" ,
+    "photo" : "https://toniandguy.it/wp-content/uploads/2017/05/Julia-roberts-hair-01.jpg"
+  }
+
+]
